@@ -10,3 +10,6 @@ Prazan projekat sa pratećim bibliotekama koje koristimo na času.
 6. Šejderi idu u folder shaders. `Vertex shader` ima ekstenziju `.vs`, `fragment shader` ima ekstenziju `.fs`
 7. ALT+SHIFT+F10 -> project_base -> run
 amogus
+8. test
+test
+9. test
